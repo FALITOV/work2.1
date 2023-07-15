@@ -4,7 +4,7 @@ public class Main {
 
         int ticket = 15000;
         int km = 20;
-        System.out.println( "Бонус за покупку: " + ticket/km);
+        System.out.println("Бонус за покупку: " + ticket / km);
 
     }
 }
